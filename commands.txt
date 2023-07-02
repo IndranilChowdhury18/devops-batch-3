@@ -1,0 +1,6 @@
+git init : Initialize an empty git Repository
+git add: add file/stage to git
+git commit:commit all the stage files to git
+git status:show  the status of your git repository
+git diff:helps to identify the differences between the states repositories or files
+git log:check your git commits and logs
